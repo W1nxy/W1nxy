@@ -12,4 +12,4 @@ I’m passionate about digital defense, CTFs, and empowering more women to join 
 ---
 
 **Let’s connect!**  
-[LinkedIn](https://linkedin.com/in/hajar-bouifanza) • [TryHackMe](https://tryhackme.com/p/W1nxy) • [Twitter/X](https://twitter.com/W1nxy)
+[LinkedIn](https://linkedin.com/in/hajar-bouifanza) • [TryHackMe](https://tryhackme.com/p/W1nxy) • [Twitter/X](https://twitter.com/W1nxyQ)
