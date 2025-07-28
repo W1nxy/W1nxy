@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👾 W1nxy
 
-<!--
-**W1nxy/W1nxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I’m **Hajar (aka W1nxy)** — a cybersecurity enthusiast who loves ethical hacking, creative coding, and always learning new things.  
+I’m passionate about digital defense, CTFs, and empowering more women to join tech and cybersecurity.  
 
-Here are some ideas to get you started:
+- 💻 Currently learning: advanced penetration testing and malware analysis  
+- 🛡️ Main interests: cybersecurity, Python, automation, open source  
+- ✨ Fun fact: I believe curiosity and creativity are a hacker’s best tools!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Securing the future, one line of code at a time.”
+
+---
+
+**Let’s connect!**  
+[LinkedIn](https://linkedin.com/in/hajar-bouifanza) • [TryHackMe](https://tryhackme.com/p/W1nxy) • [Twitter/X](https://twitter.com/W1nxy)
