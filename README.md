@@ -1,12 +1,15 @@
-# React + Vite
+# 👾 W1nxy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! I’m **Hajar (aka W1nxy)** — a cybersecurity enthusiast who loves ethical hacking, creative coding, and always learning new things.  
+I’m passionate about digital defense, CTFs, and empowering more women to join tech and cybersecurity.  
 
-Currently, two official plugins are available:
+- 💻 Currently learning: advanced penetration testing and malware analysis  
+- 🛡️ Main interests: cybersecurity, Python, automation, open source  
+- ✨ Fun fact: I believe curiosity and creativity are a hacker’s best tools!  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> “Securing the future, one line of code at a time.”
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Let’s connect!**  
+[LinkedIn](https://linkedin.com/in/hajar-bouifanza) • [TryHackMe](https://tryhackme.com/p/W1nxy) • [Twitter/X](https://twitter.com/W1nxyQ)
