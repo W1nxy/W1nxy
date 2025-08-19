@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply antialiased;
+  }
+  
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-gray-900 text-white font-mono overflow-x-hidden;
+    background: linear-gradient(135deg, #0c0c0c 0%, #1a1a2e 25%, #16213e  50%, #0f0f0f 100%);
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .cyber-button {
+    @apply relative px-6 py-3 bg-transparent border-2 border-neon-green text-neon-green font-semibold uppercase tracking-wider transition-all duration-300;
+    @apply hover:bg-neon-green hover:text-black hover:shadow-lg;
+    box-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
+  }
+  
+  .cyber-button:hover {
+    box-shadow: 0 0 20px rgba(0, 255, 136, 0.6), 0 0 30px rgba(0, 255, 136, 0.4);
+  }
+  
+  .neon-text {
+    @apply text-neon-green;
+    text-shadow: 0 0 5px currentColor, 0 0 10px currentColor, 0 0 15px currentColor;
+  }
+  
+  .glass-card {
+    @apply backdrop-blur-md bg-white/5 border border-white/20 rounded-lg shadow-2xl;
+  }
+  
+  .cyber-input {
+    @apply bg-gray-800/50 border-2 border-gray-600 rounded-lg px-4 py-3 text-white placeholder-gray-400;
+    @apply focus:border-neon-green focus:ring-2 focus:ring-neon-green/50 focus:outline-none transition-all duration-300;
+  }
+  
+  .cyber-modal {
+    @apply fixed inset-0 z-50 flex items-center justify-center p-4;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(8px);
+  }
+}
